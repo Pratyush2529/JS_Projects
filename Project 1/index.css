@@ -1,0 +1,21 @@
+.button{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+#grey{
+    background-color: grey;
+}
+#purple{
+background-color: purple;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+.container{
+    display: flex;
+    gap: 10px;
+}
