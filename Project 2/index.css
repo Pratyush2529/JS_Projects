@@ -1,0 +1,26 @@
+form{
+    border: 5px solid black;
+    border-radius: 50px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 50%;
+    /* margin: auto; */
+    padding: 20px;
+    /* margin-top: auto; */
+    background-color: white;
+}
+body{
+    background-color: grey;
+}
+div{
+    margin-bottom: 5px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
